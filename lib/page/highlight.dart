@@ -53,7 +53,7 @@ class _HighlightState extends State<Highlight> {
         backgroundColor: Colors.blueGrey[900],
         centerTitle: true,
         title: const Text(
-          "Football Highlight by Aung Ko Maw ",
+          "Football Highlight",
           style: TextStyle(color: Colors.white),
         ),
       ),
