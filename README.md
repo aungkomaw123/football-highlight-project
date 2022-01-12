@@ -1,6 +1,6 @@
 # Football Highlights Application
 
-A new Flutter project.
+International leagues and national football matches highlight and goal scores
 
 ## App Screen
 
